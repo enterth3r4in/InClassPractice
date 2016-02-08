@@ -1,1 +1,5 @@
 C:\Users\as600\Documents\GitHub\InClassPractice\InClassPractice\bin\Debug\InClassPractice.exe.config
+C:\Users\as600\Documents\GitHub\InClassPractice\InClassPractice\bin\Debug\InClassPractice.exe
+C:\Users\as600\Documents\GitHub\InClassPractice\InClassPractice\bin\Debug\InClassPractice.pdb
+C:\Users\as600\Documents\GitHub\InClassPractice\InClassPractice\obj\Debug\InClassPractice.exe
+C:\Users\as600\Documents\GitHub\InClassPractice\InClassPractice\obj\Debug\InClassPractice.pdb
